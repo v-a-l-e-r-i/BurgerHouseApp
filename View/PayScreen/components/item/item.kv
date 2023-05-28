@@ -1,0 +1,70 @@
+<SwipeToDeleteItem>
+    type_swipe: "auto"
+    size_hint_y: None
+    height: 125
+    radius: 20
+
+    MDCardSwipeLayerBox:
+        # Content under the card
+        md_bg_color: "#292929"
+        radius: 20
+
+    MDCardSwipeFrontBox:
+        radius: 20
+
+        # Content of card.
+        MDBoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, 1
+            md_bg_color: '#e8e8e8'
+            radius: 20
+            padding: 10
+            spacing: 10
+
+            FitImage:
+                source: root.source
+                size_hint: None, 1
+                width: root.width / 2.5
+                radius: 20
+
+            MDBoxLayout:
+                orientation: 'vertical'
+
+                MDBoxLayout:
+                    adaptive_height: True
+
+                    MDLabel:
+                        id: content
+                        font_style: 'H6'
+                        theme_text_color: "Custom"
+                        text_color: "#292929"
+                        text: root.text
+                        font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                        size_hint_y: None
+                        height: self.texture_size[1]
+
+                    MDLabel:
+                        id: content_cost
+                        text: root.cost
+                        font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                        theme_text_color: "Custom"
+                        text_color: "#292929"
+                        font_style: 'H6'
+                        size_hint: None, None
+                        width: self.texture_size[1]
+                        height: self.texture_size[1]
+
+                ScrollView:
+                    MDLabel:
+                        id: content_ingredient
+                        text: root.ingredient
+                        font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                        theme_text_color: "Custom"
+                        text_color: "#292929"
+                        size_hint_y: None
+                        height: self.texture_size[1]
+
+
+
+
+

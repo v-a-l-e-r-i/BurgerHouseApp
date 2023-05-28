@@ -1,0 +1,1175 @@
+('D:\\disk D\\project\\path\\BurgerHouse\\dist\\main.exe',
+ False,
+ False,
+ False,
+ ['D:\\disk D\\project\\path\\BurgerHouse\\BurgerHouse.ico'],
+ None,
+ False,
+ False,
+ '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity type="win32" name="main" processorArchitecture="amd64" version="1.0.0.0"/><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" language="*" processorArchitecture="*" version="6.0.0.0" publicKeyToken="6595b64144ccf1df"/></dependentAssembly></dependency><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/></application></compatibility><application xmlns="urn:schemas-microsoft-com:asm.v3"><windowsSettings><longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware></windowsSettings></application></assembly>',
+ True,
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\disk D\\project\\path\\BurgerHouse\\build\\main\\main.pkg',
+ [('PYZ-00.pyz',
+   'D:\\disk D\\project\\path\\BurgerHouse\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\disk D\\project\\path\\BurgerHouse\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_kivy',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_kivy.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_gstreamer',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_gstreamer.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('main', 'D:\\disk D\\project\\path\\BurgerHouse\\main.py', 'PYSOURCE'),
+  ('python39.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('win32api.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PIL\\_imagingft.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PIL\\_webp.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PIL\\_imagingtk.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PIL\\_imagingcms.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\_cffi_backend.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PIL\\_imaging.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_event.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\_event.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32file.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\win32\\win32file.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_metrics.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\_metrics.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\_clock.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\_clock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\weakproxy.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32gui.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy\\properties.cp39-win_amd64.pyd',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\properties.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes39.dll',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\Lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\share\\sdl2\\bin\\SDL2_ttf.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'D:\\disk D\\project\\path\\BurgerHouse\\venv\\share\\sdl2\\bin\\SDL2.dll',
+   'BINARY'),
+  ('glew32.dll',
+   'D:\\disk D\\project\\path\\BurgerHouse\\venv\\share\\glew\\bin\\glew32.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\share\\sdl2\\bin\\SDL2_image.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\share\\sdl2\\bin\\SDL2_mixer.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\disk D\\project\\path\\BurgerHouse\\build\\main\\base_library.zip',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\background.jpg',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\background.jpg',
+   'DATA'),
+  ('kivymd\\uix\\filemanager\\filemanager.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\filemanager\\filemanager.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('kivymd\\fonts\\materialdesignicons-webfont.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\materialdesignicons-webfont.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\screen.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\screen.py',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-256.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-256.png',
+   'DATA'),
+  ('kivy_install\\modules\\touchring.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\touchring.py',
+   'DATA'),
+  ('kivy_install\\modules\\monitor.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\monitor.py',
+   'DATA'),
+  ('kivy_install\\modules\\joycursor.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\joycursor.py',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.fs',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\glsl\\header.fs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('kivymd\\images\\black.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\black.png',
+   'DATA'),
+  ('kivymd\\uix\\slider\\slider.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\slider\\slider.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaultshape.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('kivymd\\uix\\list\\list.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\list\\list.kv',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.vs',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\glsl\\header.vs',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme-0.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-MediumItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-MediumItalic.ttf',
+   'DATA'),
+  ('kivymd\\uix\\banner\\banner.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\banner\\banner.kv',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Light.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Light.ttf',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\timepicker\\timepicker.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\pickers\\timepicker\\timepicker.kv',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Thin.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Thin.ttf',
+   'DATA'),
+  ('certifi\\py.typed',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('kivymd\\images\\alpha_layer.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\alpha_layer.png',
+   'DATA'),
+  ('kivymd\\uix\\refreshlayout\\refreshlayout.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\refreshlayout\\refreshlayout.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-16.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwertz.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('kivy_install\\modules\\keybinding.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\keybinding.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('kivymd\\uix\\dropdownitem\\dropdownitem.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\dropdownitem\\dropdownitem.kv',
+   'DATA'),
+  ('kivymd\\uix\\tab\\tab.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\tab\\tab.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-24.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('kivymd\\images\\green.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\green.png',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('kivymd\\uix\\expansionpanel\\expansionpanel.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\expansionpanel\\expansionpanel.kv',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('kivymd\\uix\\navigationrail\\navigationrail.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\navigationrail\\navigationrail.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('kivymd\\uix\\sliverappbar\\sliverappbar.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\sliverappbar\\sliverappbar.kv',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('kivymd\\uix\\bottomnavigation\\bottomnavigation.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\bottomnavigation\\bottomnavigation.kv',
+   'DATA'),
+  ('kivymd\\uix\\imagelist\\imagelist.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\imagelist\\imagelist.kv',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\fr_CH.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.vs',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.vs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Italic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\inspector.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\inspector.py',
+   'DATA'),
+  ('kivy_install\\data\\style.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\style.kv',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('kivymd\\images\\red.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\red.png',
+   'DATA'),
+  ('kivymd\\uix\\selectioncontrol\\selectioncontrol.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\selectioncontrol\\selectioncontrol.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('kivy_install\\data\\settings_kivy.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\settings_kivy.json',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Regular.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\webdebugger.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\webdebugger.py',
+   'DATA'),
+  ('kivy_install\\data\\images\\testpattern.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\testpattern.png',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('kivymd\\data\\glsl\\elevation\\header.frag',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\data\\glsl\\elevation\\header.frag',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('kivymd\\uix\\tooltip\\tooltip.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\tooltip\\tooltip.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-48.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\cursor.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\cursor.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-128.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-128.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-BlackItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-BlackItalic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\console.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\console.py',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\en_US.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('kivymd\\data\\glsl\\elevation\\elevation.frag',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\data\\glsl\\elevation\\elevation.frag',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Black.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Black.ttf',
+   'DATA'),
+  ('kivymd\\uix\\textfield\\textfield.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\textfield\\textfield.kv',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\showborder.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\showborder.py',
+   'DATA'),
+  ('kivymd\\images\\logo\\kivymd-icon-512.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\logo\\kivymd-icon-512.png',
+   'DATA'),
+  ('kivymd\\data\\glsl\\elevation\\main.frag',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\data\\glsl\\elevation\\main.frag',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\colorpicker\\colorpicker.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\pickers\\colorpicker\\colorpicker.kv',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.fs',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.fs',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Medium.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Medium.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-128.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('kivymd\\images\\transparent.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\transparent.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-ThinItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-ThinItalic.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('kivymd\\uix\\chip\\chip.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\chip\\chip.kv',
+   'DATA'),
+  ('kivymd\\images\\blue.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\blue.png',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('kivymd\\uix\\pickers\\datepicker\\datepicker.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\pickers\\datepicker\\datepicker.kv',
+   'DATA'),
+  ('kivy_install\\modules\\_webdebugger.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\_webdebugger.py',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('kivymd\\uix\\progressbar\\progressbar.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\progressbar\\progressbar.kv',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-256.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('kivymd\\uix\\swiper\\swiper.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\swiper\\swiper.kv',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-32.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('kivymd\\uix\\card\\card.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\card\\card.kv',
+   'DATA'),
+  ('kivymd\\uix\\toolbar\\toolbar.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\toolbar\\toolbar.kv',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('kivymd\\uix\\bottomsheet\\bottomsheet.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\bottomsheet\\bottomsheet.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('kivy_install\\modules\\recorder.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\recorder.py',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-LightItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-LightItalic.ttf',
+   'DATA'),
+  ('kivymd\\uix\\segmentedcontrol\\segmentedcontrol.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\segmentedcontrol\\segmentedcontrol.kv',
+   'DATA'),
+  ('kivymd\\uix\\navigationdrawer\\navigationdrawer.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\navigationdrawer\\navigationdrawer.kv',
+   'DATA'),
+  ('kivymd\\uix\\datatables\\datatables.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\datatables\\datatables.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('kivymd\\fonts\\Roboto-Bold.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('kivymd\\uix\\snackbar\\snackbar.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\snackbar\\snackbar.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de_CH.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('kivymd\\uix\\dialog\\dialog.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\dialog\\dialog.kv',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('kivymd\\uix\\backdrop\\backdrop.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\backdrop\\backdrop.kv',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\azerty.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('kivy_install\\modules\\cursor.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\cursor.py',
+   'DATA'),
+  ('kivymd\\uix\\menu\\menu.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\menu\\menu.kv',
+   'DATA'),
+  ('kivymd\\images\\folder.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\folder.png',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('kivymd\\uix\\spinner\\spinner.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\spinner\\spinner.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('kivymd\\images\\yellow.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\images\\yellow.png',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\de.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('kivy_install\\modules\\__init__.py',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__init__.py',
+   'DATA'),
+  ('kivymd\\uix\\label\\label.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\label\\label.kv',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('kivymd\\uix\\selection\\selection.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\selection\\selection.kv',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme.atlas',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.gif',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.zip',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwerty.json',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('kivymd\\uix\\button\\button.kv',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivymd\\uix\\button\\button.kv',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-512.png',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\LICENSE.txt',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\METADATA',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\WHEEL',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\entry_points.txt',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\INSTALLER',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('wheel-0.40.0.dist-info\\RECORD',
+   'd:\\disk '
+   'd\\project\\path\\burgerhouse\\venv\\lib\\site-packages\\wheel-0.40.0.dist-info\\RECORD',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1684523901,
+ [('runw.exe',
+   'D:\\disk '
+   'D\\project\\path\\BurgerHouse\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')])

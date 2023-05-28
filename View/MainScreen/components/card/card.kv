@@ -1,0 +1,31 @@
+<HeroCard>:
+    orientation: 'vertical'
+    size_hint: None, None
+    size: 160, 200
+    radius: 24
+    md_bg_color: "#f0f0f0"
+
+    MDHeroFrom:
+        id: hero_from
+        size_hint: 1, None
+        height: root.height / 1.2
+
+        FitImage:
+            source: root.source
+            size_hint: None, None
+            size: hero_from.size
+            pos_hint: {'top': 1}
+            radius: 24
+
+    MDBoxLayout:
+        orientation: 'horizontal'
+
+        MDLabel:
+            id: burger_name
+            text: root.title
+            halign: 'center'
+
+#        MDLabel:
+#            text: "$286"
+#            halign: 'center'
+

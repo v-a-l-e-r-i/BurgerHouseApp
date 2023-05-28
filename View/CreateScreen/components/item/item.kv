@@ -1,0 +1,59 @@
+<SwipeItem>
+    id: item
+    size_hint_y: None
+    height: 100
+    radius: 20
+
+    # Content of card.
+    MDBoxLayout:
+        orientation: 'horizontal'
+        size_hint: 1, 1
+        md_bg_color: "e8e8e8"
+        radius: 20
+        padding: 10
+        spacing: 10
+
+        FitImage:
+            id: image
+            source: root.source
+            size_hint: None, 1
+            width: root.width / 3.5
+            radius: 20
+
+        MDBoxLayout:
+            adaptive_height: True
+            pos_hint: {'center_y': .5}
+
+            MDLabel:
+                id: content
+                font_style: 'H6'
+                text: root.text
+                font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                size_hint_y: None
+                height: self.texture_size[1]
+                theme_text_color: "Custom"
+                text_color: "#292929"
+
+            MDLabel:
+                id: content_cost
+                text: root.cost
+                font_style: 'H6'
+                font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                size_hint: None, None
+                width: self.texture_size[1]
+                height: self.texture_size[1]
+                theme_text_color: "Custom"
+                text_color: "#292929"
+
+        MDIconButton:
+            id: add
+            icon: 'plus'
+            pos_hint: {'center_y': .5}
+            theme_icon_color: "Custom"
+            icon_color: "#292929"
+            on_press: root.controller.checking_the_product_limit(item)
+
+
+
+
+

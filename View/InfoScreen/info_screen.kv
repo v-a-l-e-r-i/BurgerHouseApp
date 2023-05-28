@@ -1,0 +1,106 @@
+<InfoScreenView>
+    id: info_screen
+    md_bg_color: "#f0f0f0"
+
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: 10
+        spacing: 5
+
+        FitImage:
+            size_hint: 1, None
+            height: 300
+            source: root.source
+            pos_hint: {"top": 1}
+            radius: 24
+
+        MDLabel:
+            text: root.burger_name
+            font_style: "H5"
+            font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+            size_hint_y: None
+            height: self.texture_size[1]
+            halign: "center"
+
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            adaptive_size: True
+            spacing: 15
+            pos_hint: {"center_x": .5}
+
+            MDCard:
+                orientation: "vertical"
+                size_hint: None, None
+                width: 100
+                height: 120
+                md_bg_color: "#c2c2c2"
+
+                MDIconButton:
+                    icon: 'currency-uah'
+                    icon_size: "40sp"
+                    theme_icon_color: "Custom"
+                    icon_color: "#292929"
+                    pos_hint: {"center_x": .5}
+
+                MDLabel:
+                    text: str(root.cost)
+                    theme_text_color: "Custom"
+                    text_color: "#292929"
+                    font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                    font_size: "20sp"
+                    halign: "center"
+
+            MDCard:
+                orientation: "vertical"
+                size_hint: None, None
+                width: 100
+                height: 120
+                md_bg_color: "#c2c2c2"
+
+                MDIconButton:
+                    icon: 'alpha-k-circle-outline'
+                    icon_size: "40sp"
+                    theme_icon_color: "Custom"
+                    icon_color: "#292929"
+                    pos_hint: {"center_x": .5}
+
+                MDLabel:
+                    text: str(root.kcal)
+                    theme_text_color: "Custom"
+                    text_color: "#292929"
+                    font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                    font_size: "20sp"
+                    halign: "center"
+
+        ScrollView:
+
+            MDLabel:
+                text: root.ingredient
+                halign: "center"
+                text_color: "#292929"
+                font_size: "18sp"
+                font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                size_hint_y: None
+                height: self.texture_size[1]
+
+        MDFillRoundFlatIconButton:
+            text: "Добавити"
+            icon: "cart-outline"
+            font_size: "20sp"
+            icon_color: "292929"
+            font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+            theme_text_color: "Custom"
+            text_color: "#292929"
+            md_bg_color: "ff642e"
+            pos_hint: {"center_x": .5}
+            on_press:   root.controller.add_to_cart()
+
+    MDIconButton:
+        icon: 'chevron-left'
+        icon_size: 40
+        theme_icon_color: "Custom"
+        icon_color: "#292929"
+        size_hint: None, None
+        pos_hint: {"top": 1, "center_x": .08}
+        on_press: root.controller.on_tap_chevron()

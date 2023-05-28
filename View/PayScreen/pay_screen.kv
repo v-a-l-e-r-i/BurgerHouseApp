@@ -1,0 +1,47 @@
+<PayScreenView>
+    md_bg_color: "#f0f0f0"
+
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            id: pay_toolbar
+            title: "Оплата"
+            pos_hint: {'top': 1}
+            md_bg_color: "#f0f0f0"
+            specific_text_color: "#292929"
+            left_action_items: [["chevron-left", lambda x: root.controller.on_tap_chevron()]]
+            elevation: 0
+
+        MDScrollView:
+            scroll_timeout : 100
+
+            MDList:
+                id: md_list
+                padding: 10
+                spacing: 15
+
+        MDBoxLayout:
+            orientation: 'horizontal'
+            size_hint: 1, None
+            height: 70
+            md_bg_color: '#f0f0f0'
+            padding: 20
+
+            MDLabel:
+                text: f"{root.cost} UAH"
+                color: "#292929"
+                font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                font_size: 24
+
+            MDFillRoundFlatButton:
+                text: "     Pay     "
+                theme_text_color: "Custom"
+                text_color: "#292929"
+                font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                font_size: 24
+                md_bg_color: "#ff642e"
+                pos_hint: {'center_y': .5}
+                on_press: root.model.check_cart(root.cost)
+
+

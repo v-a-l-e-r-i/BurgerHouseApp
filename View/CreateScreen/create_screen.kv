@@ -1,0 +1,58 @@
+<CreateScreenView>
+    md_bg_color: "#f0f0f0"
+
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: 10
+
+        MDTopAppBar:
+            id: create_toolbar
+            title: "Create Your Burger"
+            font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+            pos_hint: {'top': 1}
+            md_bg_color: "#f0f0f0"
+            specific_text_color: "#292929"
+            left_action_items: [["chevron-left", lambda x: root.controller.on_tap_chevron()]]
+            elevation: 0
+
+        ScrollView:
+            MDList:
+                id: content
+                padding: 10
+                spacing: 15
+
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint: 1, None
+            height: 80
+            md_bg_color: "#f0f0f0"
+            padding: 5
+            radius: 10
+
+
+            MDBoxLayout:
+                orientation: "vertical"
+
+                MDLabel:
+                    text: root.cost
+                    font_size: 18
+                    font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                    size_hint_y: None
+                    height: self.texture_size[1]
+
+                ScrollView:
+                    MDLabel:
+                        text: root.ingredient
+                        font_size: 18
+                        font_name: './View/MainScreen/components/font/RobotoSlab-Regular.ttf'
+                        size_hint_y: None
+                        height: self.texture_size[1]
+
+            MDIconButton:
+                id: add
+                icon: 'cart-outline'
+                icon_size: 40
+                theme_icon_color: "Custom"
+                icon_color: "#ff642e"
+                pos_hint: {'center_y': .5}
+                on_press: root.controller.add_your_to_cart()
